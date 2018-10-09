@@ -1,0 +1,11 @@
+body{
+    background: grey
+}
+
+.container{
+    text-align: center
+}
+
+h1, h4, p{
+    color: lightskyblue
+}
